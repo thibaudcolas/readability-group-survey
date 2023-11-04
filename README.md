@@ -3,7 +3,8 @@
 🚧 Not my work – Results from The Readability Group’s survey, as presented at Axe Con 2021.
 
 > Are “accessible” fonts actually as accessible as they claim? If not, what are the things we need to know when choosing a font that responds to different reader needs? This session will explore what dyslexia is, what cognitively happens when we read, and what elements of a typeface make a difference to how accessible it is, and to whom. Bruno, David, and Gareth have decades of experience between them. Bruno as a Typeface Designer, David as a Typographer, and Gareth as a UX Design/Accessibility expert. Together they spent over 3 years researching and steering the creation of BBC Reith family, the BBC’s corporate accessible typeface.
-> 
+
+View the [full presentation in accessible Markdown/HTML](https://github.com/thibaudcolas/readability-group-survey/blob/main/presentation.md)
 
 - Video recording: [Don’t Believe The Type! - axe-con 2021 - YouTube](https://www.youtube.com/watch?v=h8IOqUl1zII)
 - Slides (14MB, PPTX): [The Readability Group - Axe Con 2021 Dont Believe the Type.pptx](https://github.com/thibaudcolas/readability-group-survey/blob/main/The%20Readability%20Group%20-%20Axe%20Con%202021%20_%20Dont%20Believe%20the%20Type.pptx)
@@ -187,4 +188,11 @@ Estimated at around 7,000 hours
 
 ## Credits
 
-[David Bailey](https://medium.com/@davidkiosk), [Gareth Ford Williams](https://medium.com/@garethfordwilliams), [Bruno Maag](https://medium.com/@bruno-maag)
+- Readability Group Survey and presentation: [David Bailey](https://medium.com/@davidkiosk), [Gareth Ford Williams](https://medium.com/@garethfordwilliams), [Bruno Maag](https://medium.com/@bruno-maag)
+- Summary results: [Gareth Ford Williams](https://www.linkedin.com/posts/garethfordwilliams_dont-believe-the-type-axe-con-2021-activity-6904510195884445696-93xG/)
+- Key slides converted to Markdown for this README: [@thibaudcolas](https://github.com/thibaudcolas)
+- Image descriptions in full presentation as Markdown: ChatGPT / GPT-4, under supervision and with editorial changes from [@thibaudcolas](https://github.com/thibaudcolas)
+
+ChatGPT prompt:
+
+> I’ve sent you image copies of four slides, slide numbers 12 to 16. Could you describe the contents of the slides for me? No need to mention the formatting or the slides’ heading, just the contents. Please make sure to include any text present on the slides, and format your descriptions in Markdown code with one heading per slide so I can reuse them more easily.
