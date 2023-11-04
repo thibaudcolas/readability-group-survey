@@ -10,7 +10,7 @@
 - Twitter: [@ReadabilityGrp](https://twitter.com/ReadabilityGrp)
 - Medium: [The Readability Group](https://medium.com/the-readability-group)
 
-## Summary findings
+## Summary results
 
 All of the information in this section is from a [LinkedIn post by Gareth Ford Williams](https://www.linkedin.com/posts/garethfordwilliams_dont-believe-the-type-axe-con-2021-activity-6904510195884445696-93xG/), verbatim but with more text formatting.
 
@@ -97,7 +97,7 @@ One last thing to note is that Helvetica never found itself anywhere near the to
 
 The data gathered in this study will be released later in 2022.
 
-## Articles
+## Additional articles
 
 - [It’s all squiggles to me](https://medium.com/the-readability-group/its-all-squiggles-to-me-541b326a94a8) – Jun 8, 2021, [Bruno Maag](https://medium.com/@bruno-maag)
 - [The visual system  —  a brief guide to anatomy and physiology in the context of typography](https://medium.com/the-readability-group/the-visual-system-a-brief-guide-to-anatomy-and-physiology-in-the-context-of-typography-b29718389f16) – May 4, 2021, [Bruno Maag](https://medium.com/@bruno-maag)
