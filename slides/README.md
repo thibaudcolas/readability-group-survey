@@ -2,161 +2,161 @@
 
 ## Slide 1 - Don’t believe the type
 
-[![slide-001.png](slide-001.png)](slide-001.png)
+[![Slide 1 - Don’t believe the type](slide-001.png)](slide-001.png)
 
-## Slide 2 - The Readability Group survey
+## Slide 2 - The Readability Group
 
-[![slide-002.png](slide-002.png)](slide-002.png)
+[![Slide 2 - The Readability Group](slide-002.png)](slide-002.png)
 
-## Slide 3 - The 3 pillars of accessibility
+## Slide 3 - The Readability Group survey
 
-[![slide-003.png](slide-003.png)](slide-003.png)
+[![Slide 3 - The Readability Group survey](slide-003.png)](slide-003.png)
 
 ## Slide 4 - The 3 pillars of accessibility
 
-[![slide-004.png](slide-004.png)](slide-004.png)
+[![Slide 4 - The 3 pillars of accessibility](slide-004.png)](slide-004.png)
 
 ## Slide 5 - The 3 pillars of accessibility
 
-[![slide-005.png](slide-005.png)](slide-005.png)
+[![Slide 5 - The 3 pillars of accessibility](slide-005.png)](slide-005.png)
 
-## Slide 6 - Brand expression
+## Slide 6 - The 3 pillars of accessibility
 
-[![slide-006.png](slide-006.png)](slide-006.png)
+[![Slide 6 - The 3 pillars of accessibility](slide-006.png)](slide-006.png)
 
 ## Slide 7 - Brand expression
 
-[![slide-007.png](slide-007.png)](slide-007.png)
+[![Slide 7 - Brand expression](slide-007.png)](slide-007.png)
 
 ## Slide 8 - Brand expression
 
-[![slide-008.png](slide-008.png)](slide-008.png)
+[![Slide 8 - Brand expression](slide-008.png)](slide-008.png)
 
-## Slide 9 - Fashion vs function
+## Slide 9 - Brand expression
 
-[![slide-009.png](slide-009.png)](slide-009.png)
+[![Slide 9 - Brand expression](slide-009.png)](slide-009.png)
 
-## Slide 10 - Fashion vs function
+## Slide 10 Fashion vs function
 
-[![slide-010.png](slide-010.png)](slide-010.png)
+[![Slide 10 Fashion vs function](slide-010.png)](slide-010.png)
 
 ## Slide 11 - Fashion vs function
 
-[![slide-011.png](slide-011.png)](slide-011.png)
+[![Slide 11 - Fashion vs function](slide-011.png)](slide-011.png)
 
-## Slide 12 - 
+## Slide 12 - Fashion vs function
 
-[![slide-012.png](slide-012.png)](slide-012.png)
+[![Slide 12 - Fashion vs function](slide-012.png)](slide-012.png)
 
-## Slide 13 - 
+## Slide 13 - Striking a balance
 
-[![slide-013.png](slide-013.png)](slide-013.png)
+[![Slide 13 - Striking a balance](slide-013.png)](slide-013.png)
 
-## Slide 14 - 
+## Slide 14 - The Readability Group survey
 
-[![slide-014.png](slide-014.png)](slide-014.png)
+[![Slide 14 - The Readability Group survey](slide-014.png)](slide-014.png)
 
-## Slide 15 - 
+## Slide 15 - High exposure
 
-[![slide-015.png](slide-015.png)](slide-015.png)
+[![Slide 15 - High exposure](slide-015.png)](slide-015.png)
 
-## Slide 16 - 
+## Slide 16 - Key stats
 
-[![slide-016.png](slide-016.png)](slide-016.png)
+[![Slide 16 - Key stats](slide-016.png)](slide-016.png)
 
-## Slide 17 - 
+## Slide 17 - Font features
 
-[![slide-017.png](slide-017.png)](slide-017.png)
+[![Slide 17 - Font features](slide-017.png)](slide-017.png)
 
-## Slide 18 - 
+## Slide 18 - User characteristics
 
-[![slide-018.png](slide-018.png)](slide-018.png)
+[![Slide 18 - User characteristics](slide-018.png)](slide-018.png)
 
-## Slide 19 - 
+## Slide 19 - Poor near vision
 
-[![slide-019.png](slide-019.png)](slide-019.png)
+[![Slide 19 - Poor near vision](slide-019.png)](slide-019.png)
 
-## Slide 20 - 
+## Slide 20 - Phonological Dyslexia characteristics
 
-[![slide-020.png](slide-020.png)](slide-020.png)
+[![Slide 20 - Phonological Dyslexia characteristics](slide-020.png)](slide-020.png)
 
-## Slide 21 - 
+## Slide 21 - Font selection rate: All participants
 
-[![slide-021.png](slide-021.png)](slide-021.png)
+[![Slide 21 - Font selection rate: All participants](slide-021.png)](slide-021.png)
 
-## Slide 22 - 
+## Slide 22 - Font selection rate: Dyslexic traits - No/Strong
 
-[![slide-022.png](slide-022.png)](slide-022.png)
+[![Slide 22 - Font selection rate: Dyslexic traits - No/Strong](slide-022.png)](slide-022.png)
 
-## Slide 23 - 
+## Slide 23 - Font selection rate: Poor near vision - No/Strong
 
-[![slide-023.png](slide-023.png)](slide-023.png)
+[![Slide 23 - Font selection rate: Poor near vision - No/Strong](slide-023.png)](slide-023.png)
 
-## Slide 24 - 
+## Slide 24 - Font selection rate: Words with letters "n" by Poor near vision - All
 
-[![slide-024.png](slide-024.png)](slide-024.png)
+[![Slide 24 - Font selection rate: Words with letters "n" by Poor near vision - All](slide-024.png)](slide-024.png)
 
-## Slide 25 - 
+## Slide 25 - Legibility
 
-[![slide-025.png](slide-025.png)](slide-025.png)
+[![Slide 25 - Legibility](slide-025.png)](slide-025.png)
 
-## Slide 26 - 
+## Slide 26 - The test platform
 
-[![slide-026.png](slide-026.png)](slide-026.png)
+[![Slide 26 - The test platform](slide-026.png)](slide-026.png)
 
-## Slide 27 - 
+## Slide 27 - The top four
 
-[![slide-027.png](slide-027.png)](slide-027.png)
+[![Slide 27 - The top four](slide-027.png)](slide-027.png)
 
-## Slide 28 - 
+## Slide 28 - Design features
 
-[![slide-028.png](slide-028.png)](slide-028.png)
+[![Slide 28 - Design features](slide-028.png)](slide-028.png)
 
-## Slide 29 - 
+## Slide 29 - Design features
 
-[![slide-029.png](slide-029.png)](slide-029.png)
+[![Slide 29 - Design features](slide-029.png)](slide-029.png)
 
-## Slide 30 - 
+## Slide 30 - Design features
 
-[![slide-030.png](slide-030.png)](slide-030.png)
+[![Slide 30 - Design features](slide-030.png)](slide-030.png)
 
-## Slide 31 - 
+## Slide 31 - Design features
 
-[![slide-031.png](slide-031.png)](slide-031.png)
+[![Slide 31 - Design features](slide-031.png)](slide-031.png)
 
-## Slide 32 - 
+## Slide 32 - Design features
 
-[![slide-032.png](slide-032.png)](slide-032.png)
+[![Slide 32 - Design features](slide-032.png)](slide-032.png)
 
-## Slide 33 - 
+## Slide 33 - Poor performers
 
-[![slide-033.png](slide-033.png)](slide-033.png)
+[![Slide 33 - Poor performers](slide-033.png)](slide-033.png)
 
-## Slide 34 - 
+## Slide 34 - Sans vs Serif
 
-[![slide-034.png](slide-034.png)](slide-034.png)
+[![Slide 34 - Sans vs Serif](slide-034.png)](slide-034.png)
 
-## Slide 35 - 
+## Slide 35 - Sans vs Serif
 
-[![slide-035.png](slide-035.png)](slide-035.png)
+[![Slide 35 - Sans vs Serif](slide-035.png)](slide-035.png)
 
-## Slide 36 - 
+## Slide 36 - Sizing
 
-[![slide-036.png](slide-036.png)](slide-036.png)
+[![Slide 36 - Sizing](slide-036.png)](slide-036.png)
 
-## Slide 37 - 
+## Slide 37 - Sizing
 
-[![slide-037.png](slide-037.png)](slide-037.png)
+[![Slide 37 - Sizing](slide-037.png)](slide-037.png)
 
-## Slide 38 - 
+## Slide 38 - More to learn
 
-[![slide-038.png](slide-038.png)](slide-038.png)
+[![Slide 38 - More to learn](slide-038.png)](slide-038.png)
 
-## Slide 39 - 
+## Slide 39 - This is just the beginning
 
-[![slide-039.png](slide-039.png)](slide-039.png)
+[![Slide 39 - This is just the beginning](slide-039.png)](slide-039.png)
 
-## Slide 40 - 
+## Slide 40 - Thank you
 
-[![slide-040.png](slide-040.png)](slide-040.png)
+[![Slide 40 - Thank you](slide-040.png)](slide-040.png)
 
