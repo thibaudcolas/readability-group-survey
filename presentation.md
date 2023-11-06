@@ -1,6 +1,6 @@
 # Don’t believe the type
 
-Converted to Markdown / HTML, with images of the slides. Readability Group Survey and presentation by: [David Bailey](https://medium.com/@davidkiosk), [Gareth Ford Williams](https://medium.com/@garethfordwilliams), [Bruno Maag](https://medium.com/@bruno-maag). Image descriptions in this document: ChatGPT / GPT-4, under supervision and with editorial changes from [@thibaudcolas](https://github.com/thibaudcolas).
+Converted to Markdown / HTML from images in [the slides (14MB, PPTX)](https://github.com/thibaudcolas/readability-group-survey/blob/main/The%20Readability%20Group%20-%20Axe%20Con%202021%20_%20Dont%20Believe%20the%20Type.pptx). Readability Group Survey and presentation by: [David Bailey](https://medium.com/@davidkiosk), [Gareth Ford Williams](https://medium.com/@garethfordwilliams), [Bruno Maag](https://medium.com/@bruno-maag). Image descriptions in this document: ChatGPT / GPT-4, under supervision and with editorial changes from [@thibaudcolas](https://github.com/thibaudcolas).
 
 ## Slide 1 - Don’t believe the type
 
